@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    "  i",
+    " ir",
+    "b  "
+  ],
+
+  "result": {
+    "item": "sanguis_et_magia:silver_dagger",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "sanguis_et_magia:item/silver_dagger"
+  }
+}
